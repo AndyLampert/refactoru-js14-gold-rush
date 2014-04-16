@@ -1,0 +1,20 @@
+$gold: #FFAA0C;
+
+img {
+    max-width: 100%;
+}
+
+.topo-container {
+    position: relative;
+}
+
+.marker {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: $gold;
+    display: none;
+}
+
+// .marker --> div class we create with jQuery

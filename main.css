@@ -1,0 +1,16 @@
+img {
+  max-width: 100%;
+}
+
+.topo-container {
+  position: relative;
+}
+
+.marker {
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  border-radius: 50%;
+  background-color: #ffaa0c;
+  display: none;
+}
